@@ -1,0 +1,9 @@
+body {
+    width: 1440px;
+    height: 1024px;
+    background: #054D21;
+}
+nav {width: 1440px;
+    height: 130px;
+    flex-shrink: 0;
+}
