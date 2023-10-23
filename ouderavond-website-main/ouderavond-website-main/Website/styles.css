@@ -13,6 +13,7 @@ body
   float: left;
   height: 69px;
   width: auto;
+  cursor: pointer;
 }
 .navbar
 {
@@ -93,6 +94,7 @@ body
   margin-top: 15px;
   margin-right: 1rem;
   padding: 11px 24px;
+  cursor: pointer;
 }
 .dropdown
 {
