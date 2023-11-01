@@ -302,3 +302,52 @@ justify-content: space-evenly;
     flex-direction: column;
     justify-content: space-evenly;
 }
+
+.student
+{
+    display: flex;
+    color: #FFF;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    height: 889px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+}
+.student-1
+{
+    padding: 8px;
+    font-size: 35px;
+    background: #2B7046;
+    display: flex;
+    width: 490px;
+    height: 626px;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.student-2
+{
+    padding: 8px;
+    font-size: 35px;
+    background: #2B7046;
+    display: flex;
+    width: 490px;
+    height: 626px;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.student-3
+{
+    padding: 8px;
+    font-size: 30px;
+    background: #2B7046;
+    display: flex;
+    width: 490px;
+    height: 626px;
+    flex-shrink: 0;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
